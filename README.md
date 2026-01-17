@@ -12,9 +12,9 @@ The application OPENS WITHOUT INSTALLATION.
 - Conductor Height
 - Substrate Height (or select auto calculate button)
 - Target Impedance 
-- Antenna Type : Microstrip Patch Antenna (Inset-Fed)
-                 Coaxial Feed Patch Antenna
-                 Circularly Polarized Antennas
+- Antenna Type : Microstrip Patch Antenna (Inset-Fed)  
+                 Coaxial Feed Patch Antenna  
+                 Circularly Polarized Antennas  
 
 **Calculated Output**
 - Patch Width
