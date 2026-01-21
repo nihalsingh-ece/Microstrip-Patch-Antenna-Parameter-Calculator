@@ -2,8 +2,7 @@
 A tool for calculating **initial design parameters of rectangular microstrip patch antenna** before designing an antenna in simulation software like CST Microwave Studio or ANSYS HFSS.
 
 ## How to Run
-Run microstrip-patch-antenna-parameter-calculator-v1.0.exe directly. 
-The application OPENS WITHOUT INSTALLATION.
+Run microstrip-patch-antenna-parameter-calculator-v1.0 by executing run.py file.  
 
 ## Interface
 **User have to Input**
